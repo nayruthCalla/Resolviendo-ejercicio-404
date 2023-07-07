@@ -1,4 +1,6 @@
-![](src/assets/scarecrow.png)
+
+<img class="image" src="./assets/scarecrow.png" alt="404 page image" width="300px"/>
+
 # 404 NOT FOUND PAGE
 Ver [Demo]()
 ## Aprendizajes:
